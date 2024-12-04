@@ -1,0 +1,32 @@
+:root
+{
+    --primary: #6439FF;
+    --blue-1: #6439FF;
+    --blue-2: #4F75FF;
+    --blue-3: #00CCDD;
+    --blue-4: #7CF5FF;
+
+    --text-primary: #151515;
+    --text-primary-gray: #7c7c7c;
+    --bg: #f7f7f7;
+
+    --fs-1: 1rem;
+    --fs-2: 1.5rem;
+    --fs-3: 2rem;
+    --fs-4: 2.5rem;
+    --fs-5: 3rem;
+    --fs-6: 3.5rem;
+    --fs-7: 4rem;
+    --fs-8: 4.5rem;
+    --fs-9: 5rem;
+    --fs-10:5.5rem;
+    --br-linear-i: rgb(100,57,255);
+    --br-linear-m: linear-gradient(0deg, 
+    rgba(100,57,255,1) 0%, 
+    rgba(79,117,255,1) 25%, 
+    rgba(0,204,221,1) 81%, 
+    rgba(124,245,255,1) 100%);
+
+    --p-standart: 1.9rem;
+}
+
